@@ -1,2 +1,2 @@
-# Neural-models
-CN1 is implementation of Neural models: LIF, ELIF, AELIF
+# computational Neural Networks Projects
+CN1 is the implementation of Neural models: LIF, ELIF, AELIF
