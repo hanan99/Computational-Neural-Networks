@@ -1,2 +1,2 @@
 # Neural-models
-implementation of Neural models: LIF, ELIF, AELIF
+CN1 is implementation of Neural models: LIF, ELIF, AELIF
